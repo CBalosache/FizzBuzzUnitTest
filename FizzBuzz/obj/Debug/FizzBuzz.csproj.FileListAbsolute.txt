@@ -1,0 +1,10 @@
+C:\Users\Cosmin Balosache\source\repos\Engineering40\Wee8\Day4\FizzBuzz.Test\FizzBuzz\bin\Debug\FizzBuzz.dll
+C:\Users\Cosmin Balosache\source\repos\Engineering40\Wee8\Day4\FizzBuzz.Test\FizzBuzz\bin\Debug\FizzBuzz.pdb
+C:\Users\Cosmin Balosache\source\repos\Engineering40\Wee8\Day4\FizzBuzz.Test\FizzBuzz\obj\Debug\FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\Cosmin Balosache\source\repos\Engineering40\Wee8\Day4\FizzBuzz.Test\FizzBuzz\obj\Debug\FizzBuzz.dll
+C:\Users\Cosmin Balosache\source\repos\Engineering40\Wee8\Day4\FizzBuzz.Test\FizzBuzz\obj\Debug\FizzBuzz.pdb
+C:\Users\Cosmin Balosache\source\repos\Engineering40\Wee8\Day4\FizzBuzz.Test\FizzBuzz\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Cosmin Balosache\source\repos\Engineering40\Wee8\Day4\FizzBuzz.Test\FizzBuzz\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\Cosmin Balosache\source\repos\Engineering40\Wee8\Day4\FizzBuzz.Test\FizzBuzz\bin\Debug\nunit.engine.dll
+C:\Users\Cosmin Balosache\source\repos\Engineering40\Wee8\Day4\FizzBuzz.Test\FizzBuzz\bin\Debug\nunit.engine.api.dll
+C:\Users\Cosmin Balosache\source\repos\Engineering40\Wee8\Day4\FizzBuzz.Test\FizzBuzz\obj\Debug\FizzBuzz.csprojAssemblyReference.cache
